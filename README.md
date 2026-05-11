@@ -5,6 +5,10 @@ A real time shortest path visualiser with customizable walls, start and end poin
 Uses Breadth-First Search (BFS) to guarantee the shortest path between the start and end point on a grid.
 Animates the exploration wave step by step, then traces back the optimal route in yellow.
 
+## Example
+
+![Demo](demo.png)
+
 ## Controls
 - Left click: Place Start (green), Then End (red), Then Walls (black)
 - Right click: Erase
