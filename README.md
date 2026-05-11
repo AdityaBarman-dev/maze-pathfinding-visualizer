@@ -13,7 +13,7 @@ Animates the exploration wave step by step, then traces back the optimal route i
 
 ## Example
 
-<img src="Demo-Maze.png" width="600"/>
+<img src="Demo-Maze.png" width="400"/>
 
 ## Concepts
 Graph traversal, Queue Data Structures (FIFO), O(V+E) time complexity, path reconstruction.
