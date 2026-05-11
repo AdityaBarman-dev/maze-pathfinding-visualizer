@@ -7,7 +7,7 @@ Animates the exploration wave step by step, then traces back the optimal route i
 
 ## Example
 
-![Demo](demo.png)
+![Demo](Demo-Maze.png)
 
 ## Controls
 - Left click: Place Start (green), Then End (red), Then Walls (black)
