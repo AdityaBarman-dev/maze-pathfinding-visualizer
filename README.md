@@ -15,6 +15,6 @@ Animates the exploration wave step by step, then traces back the optimal route i
 Graph traversal, Queue Data Structures (FIFO), O(V+E) time complexity, path reconstruction.
 
 ## Requirements
-Python 3.11 + Pygame
-pip install pygame
-python pathfinder.py
+- Python 3.11 + Pygame
+- pip install pygame
+- python pathfinder.py
